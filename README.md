@@ -42,7 +42,7 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 
 ## 🚀 Projects
 
-### [My Portfolio](https://my-portfolio-omega-beryl-48.vercel.app/))
+### [My Portfolio](https://my-portfolio-omega-beryl-48.vercel.app/)
 **Description:** This portoflio is created using the cutting edge technologies like neaxt.js and tilwind CSS to showcase my projects.
 
 ### [Stack Overflow Clone](https://github.com/yourusername/project2)
