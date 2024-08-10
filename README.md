@@ -42,10 +42,10 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 
 ## 🚀 Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-**Description:** A brief description of what the project is about.
+### [My Portfolio]([https://github.com/yourusername/project1](https://my-portfolio-omega-beryl-48.vercel.app/))
+**Description:** This portoflio is created using the cutting edge technologies like neaxt.js and tilwind CSS to showcase my projects.
 
-### [Project 2 Name](https://github.com/yourusername/project2)
+### [Stack overflow clone](https://github.com/yourusername/project2)
 **Description:** A brief description of what the project is about.
 
 ---
