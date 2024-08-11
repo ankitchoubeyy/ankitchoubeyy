@@ -45,7 +45,7 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 ### [My Portfolio](https://my-portfolio-omega-beryl-48.vercel.app/)
 **Description:** This portoflio is created using the cutting edge technologies like neaxt.js and tilwind CSS to showcase my projects.
 
-### [Stack Overflow Clone](https://github.com/yourusername/project2)
+### [DocMemo: A Blogging platform for tech enthusiasts](https://github.com/yourusername/project2)
 **Description:** A brief description of what the project is about.
 
 ---
