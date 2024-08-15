@@ -54,7 +54,7 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitchoubeyy/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ankit_choubeyy)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ChoubeyCodes)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
 
 
