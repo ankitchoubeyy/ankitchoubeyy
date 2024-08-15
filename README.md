@@ -28,7 +28,8 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitchoubeyy&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitchoubeyy&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchoubeyy&layout=compact&theme=radical)
 
@@ -36,7 +37,7 @@ I'm a passionate developer with experience in MERN Stack development. I love bui
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitchoubeyy&theme=radical)
 
 ---
 
