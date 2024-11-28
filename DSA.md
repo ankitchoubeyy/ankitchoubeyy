@@ -12,5 +12,5 @@
 | `long long`  | 8            | Long long integer data type.                   |
 | `unsigned int`| 4            | Unsigned integer data type.                    |
 
-Keep in mind, these sizes can vary based on the compiler and the architecture you're working on, but these values are commonly seen.
+- Keep in mind, these sizes can vary based on the compiler and the architecture you're working on, but these values are commonly seen.
 ---
